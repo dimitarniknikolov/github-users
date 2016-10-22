@@ -29,3 +29,6 @@ Its purpose is creating MVP arhitecture with tests.
 * showEmptyList()
 * showUserList()
 * showUserDetails()
+
+Steto  
+http://facebook.github.io/stetho/  
